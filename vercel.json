@@ -1,0 +1,7 @@
+{
+  "rootDirectory": "backend",
+  "buildCommand": "pnpm run build",
+  "installCommand": "pnpm install",
+  "outputDirectory": "dist",
+  "devCommand": "pnpm run dev"
+}
